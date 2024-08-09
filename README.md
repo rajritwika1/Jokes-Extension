@@ -24,3 +24,10 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 This extension utilizes the Official Joke API for fetching random jokes. Special thanks to the creators of the API for providing such a fun resource!
 
+# Screenshot
+
+![Screenshot 2024-08-10 010324](https://github.com/user-attachments/assets/6772480c-4e9c-4d6e-859f-e7e79f76ad95)
+![Screenshot 2024-08-10 010353](https://github.com/user-attachments/assets/1dc280b5-aa11-46b9-a035-ac2136ab13bb)
+
+
+
